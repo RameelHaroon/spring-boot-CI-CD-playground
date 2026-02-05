@@ -1,3 +1,4 @@
+![CI](https://github.com/<username>/<repo>/actions/workflows/ci.yml/badge.svg)
 # spring-boot-CI-CD-playground
 
 A simple Spring Boot CRUD application built to learn real-world CI practices using GitHub Actions.
